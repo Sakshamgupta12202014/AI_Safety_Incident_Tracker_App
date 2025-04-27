@@ -2,4 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+        <color name="primary">#4CAF50</color> <!-- Soft Green -->
+        <color name="primaryVariant">#388E3C</color>
+        <color name="secondary">#FFC107</color> <!-- Soft Amber -->
+        <color name="background">#F9F9F9</color> <!-- Very Light Grey -->
+        <color name="surface">#FFFFFF</color> <!-- White cards -->
+        <color name="onPrimary">#FFFFFF</color>
+        <color name="onSecondary">#000000</color>
+        <color name="textPrimary">#212121</color>
+        <color name="textSecondary">#757575</color>
+
 </resources>
